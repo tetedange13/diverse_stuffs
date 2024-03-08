@@ -1,0 +1,8 @@
+{
+"AnnotationVCF.Parents": [],
+"AnnotationVCF.Propositus":[["A161161"]],
+"AnnotationVCF.Siblings": [],
+"AnnotationVCF.refFasta": "/mnt/chu-ngs/refData/genome/hg19/hg19.fa",
+"AnnotationVCF.SystemBioPath": "/mnt/Bioinfo/Softs/src",
+"AnnotationVCF.AnalysisPath": "/mnt/chu-ngs2/Labos/UMAI/LancementAnalyseCluster/TESTS/TEST_SOLO"
+}

@@ -1,0 +1,19 @@
+{
+"MetrixAlign.Bam": "/path/to/run/sample/CAD230728MOC.chr17.bam",
+"MetrixAlign.BamIdx": "/path/to/run/sample/Alignement/CAD230728MOC.chr17.bam.bai",
+"MetrixAlign.SampleName": "CAD230728MOC",
+"MetrixAlign.outputPath": "/mnt/chu-ngs2/Labos/UMAI/LancementAnalyseCluster/CAD230728MOC",
+"MetrixAlign.intervals": "/home/felix/Alignement/intervals/RefSeqHG19_CDSplus20.interval_list",
+"MetrixAlign.baitInterval": "/home/felix/Alignement/intervals/Bait.interval_list",
+"MetrixAlign.PoorCoverageFileFolder": "/mnt/Bioinfo/References/lib4Clamms/twist2202/PoorCoverageExtented/",
+"MetrixAlign.TargetBed": "/mnt/chu-ngs/refData/intervals/RefSeqHG19_CDSplus20.bed",
+"MetrixAlign.WindowsBed": "/mnt/Bioinfo/References/lib4Clamms/twist2202/windowsBeds/insertSize250/Windows_RefSeqHG19_CDSplus20_2021_09_merged_250pb.bed",
+"MetrixAlign.WindowsBedNoCHR": "/mnt/Bioinfo/References/lib4Clamms/twist2202/windowsBeds/insertSize250/Windows_RefSeqHG19_CDSplus20_2021_09_merged_250pb.bed_nochr",
+"MetrixAlign.MappabilityBed": "/mnt/Bioinfo/References/lib4Clamms/hg19/mappability75.bed",
+"MetrixAlign.Library": "twist2202",
+"MetrixAlign.ClammsSubProject": "all",
+"MetrixAlign.Lib4Clamms": "/mnt/Bioinfo/References/lib4Clamms/",
+"MetrixAlign.refFasta": "/mnt/chu-ngs/refData/genome/hg19/hg19.fa",
+"MetrixAlign.refDict": "/mnt/chu-ngs/refData/genome/hg19/hg19.dict",
+"MetrixAlign.refFai": "/mnt/chu-ngs/refData/genome/hg19/hg19.fa.fai"
+}

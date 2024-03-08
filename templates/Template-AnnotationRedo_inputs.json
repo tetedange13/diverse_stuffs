@@ -1,0 +1,21 @@
+{
+"AnnotationRedo.AnalysisPath": "/mnt/chu-ngs/Labos/UMAI/Run_Exomes/RERUNS/RECHERCHE/MAI_rech01_240118_UAN170052/",
+"AnnotationRedo.Parents": ["F8147-pere","F8148-mere"],
+"AnnotationRedo.Propositus":[["F7850-CI","F8147-pere","F8148-mere"]],
+"AnnotationRedo.Siblings": [],
+"AnnotationRedo.ReAnalysisNumber": "2",
+"AnnotationRedo.refFasta": "/mnt/chu-ngs/refData/genome/hg19/hg19.fa",
+"AnnotationRedo.SystemBioPath": "/mnt/Bioinfo/Softs/src",
+"AnnotationRedo.Genemap2File": "/mnt/Bioinfo/Softs/src/OMIM/genemap2.txt",
+"AnnotationRedo.GenesOfInterest": "/mnt/Bioinfo/References/refData/intervals/GeneListUMAIglobal2024.txt_HGNC_Checked.txt",
+"AnnotationRedo.CustomInfo": "AAChange.refGeneWithVer,GeneDetail.refGeneWithVer,regsnp_fpr,regsnp_disease,regsnp_splicing_site",
+"AnnotationRedo.CustomVCF": "/mnt/Bioinfo/UMAI/DI/ALL_VCF/all_ExDI.norm.vcf",
+"AnnotationRedo.FilterCustomVCF": "10",
+"AnnotationRedo.FilterCustomVCFRegex": "HTZ=",
+"AnnotationRedo.hpo_path":"/mnt/chu-ngs/Labos/UMAI/NGS/DI/HPOs/",
+"AnnotationRedo.PooledParents": true,
+"AnnotationRedo.skipCaseWT": true,
+"AnnotationRedo.AddCaseAB": true,
+"AnnotationRedo.AddCustomVCFRegex": true,
+"AnnotationRedo.HideACMG": true
+}
