@@ -12,7 +12,7 @@
 "AnnotationRedo.CustomVCF": "/mnt/Bioinfo/UMAI/DI/ALL_VCF/all_ExDI.norm.vcf",
 "AnnotationRedo.FilterCustomVCF": "10",
 "AnnotationRedo.FilterCustomVCFRegex": "HTZ=",
-"AnnotationRedo.hpo_path":"/mnt/chu-ngs/Labos/UMAI/NGS/DI/HPOs/",
+"AnnotationRedo.hpo_path":"/mnt/chu-ngs/Labos/UMAI/Run_Exomes/DIAGNOSTIC/HPOs/",
 "AnnotationRedo.PooledParents": true,
 "AnnotationRedo.skipCaseWT": true,
 "AnnotationRedo.AddCaseAB": true,

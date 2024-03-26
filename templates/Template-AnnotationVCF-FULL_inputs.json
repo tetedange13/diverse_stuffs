@@ -11,7 +11,7 @@
 "AnnotationVCF.CustomVCF": "/mnt/Bioinfo/UMAI/DI/ALL_VCF/all_ExDI.norm.vcf",
 "AnnotationVCF.FilterCustomVCF": "10",
 "AnnotationVCF.FilterCustomVCFRegex": "HTZ=",
-"AnnotationVCF.hpo_path":"/mnt/chu-ngs/Labos/UMAI/NGS/DI/HPOs/",
+"AnnotationVCF.hpo_path":"/mnt/chu-ngs/Labos/UMAI/Run_Exomes/DIAGNOSTIC/HPOs/",
 "AnnotationVCF.PooledParents": true,
 "AnnotationVCF.skipCaseWT": true,
 "AnnotationVCF.AddCaseAB": true,

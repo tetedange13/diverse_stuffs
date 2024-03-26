@@ -29,7 +29,7 @@
 "Exome.CustomVCF": "/mnt/Bioinfo/UMAI/DI/ALL_VCF/all_ExDI.norm.vcf",
 "Exome.FilterCustomVCF": "10",
 "Exome.FilterCustomVCFRegex": "HTZ=",
-"Exome.hpo_path":"/mnt/chu-ngs/Labos/UMAI/NGS/DI/HPOs/",
+"Exome.hpo_path":"/mnt/chu-ngs/Labos/UMAI/Run_Exomes/DIAGNOSTIC/HPOs/",
 "Exome.PooledParents": true,
 "Exome.skipCaseWT": true,
 "Exome.AddCaseAB": true,
