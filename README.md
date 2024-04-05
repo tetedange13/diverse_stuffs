@@ -5,3 +5,4 @@ Misc. scripts and templates
 Generate an `_inputs.json` for each casIndex, ready to give to subworkflow `MetrixAlign_sub.wdl`
 
 ## lancement.sh
+TO FILL
